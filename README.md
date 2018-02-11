@@ -10,6 +10,27 @@
 ## Ссылка на курс
 [Математика и  Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python/)
 
+## Теория
+[1. Введение в Python](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/1week/1-1.Vvedenie.pdf)
+
+[2. Программирование на Python](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/1week/1-2.Programmirovanie_na_Python.pdf)
+
+[3. Основы математического анализа](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/1week/1-3.Osnovy-matematicheskogo-analiza.pdf)
+
+[4. Знакомство с линейной алгеброй](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/2week/2-1.Znakomstvo-s-linejnoj-algebroj.pdf)
+
+[5. Матрицы и основные матричные операции](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/2week/2-2.Matricy_i_osnovnye_matrichnye_operacii.pdf)
+
+[6. Функции многих переменных](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/3week/3-1.Funkcii-mnogih-peremennyh.pdf)
+
+[7. Методы оптимизации](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/3week/-2.Metody_optimizacii.pdf)
+
+[8. Сингулярное разложение матриц](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/3week/3-3.Singulyarnoe_razlozhenie_matric.pdf)
+
+[9. Вероятность и случайные величины](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/4week/4-1.Veroyatnost_-i-sluchajnye-velichiny.pdf)
+
+[10. Статистики](https://github.com/dzisandy/ML_Mipt_1_course/blob/master/4week/4-2.Statistiki.pdf)
+
 
 ## Обо мне
 * **Дзись Андрей** - *Стажер-исследователь ИППИ РАН* - [dzisandy](https://github.com/dzisandy)
